@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% include industry4-slider.html %} 
+
+    <!-- Blog HTML START-->
+    <section id="blog">
+      <div class="container"> 
+          <div class="row">
+              <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1"> 
+
+                  
+                  {%- for post in site.posts -%}
+                  {%- if post.category=="industry4" -%}
+                  <ul style="list-style-type:none;">
+                  <!-- Blog Post Iteration-->
+                  <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+
+                  <p class="lead">by <a href="#">Karthik V</a></p>
+                  <p><span class="glyphicon glyphicon-time"></span> Posted on {{ post.date | escape }}</p>             
+                  <hr>
+                  <p>{{ post.summary | escape }}</p>
+                  
+                  <a class="btn btn-primary" href="{{ post.url | relative_url }}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+                  <hr> 
+                  </ul>
+                  {%- endif -%}
+                  {%- endfor -%}
+                
+              </div>
+          </div> 
+      </div>
+  </section>
+
+
