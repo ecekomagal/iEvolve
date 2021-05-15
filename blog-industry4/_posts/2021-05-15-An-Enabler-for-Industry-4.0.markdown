@@ -3,7 +3,7 @@ layout: post
 title:  "An enabler for Industry 4.0"
 date:   "2021-05-15"
 category: "industry4"
-author: "Karthik V"
+author: "Komagal B"
 summary: "The blog describes about how applied engineering and technology can be an 
 enabler for Industry 4.0"
 ---

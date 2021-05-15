@@ -3,7 +3,7 @@ layout: post
 title:  "Different Machine Learning Problems"
 date:   "2021-05-10" 
 category: "ml-dl"
-author: "Karthik V"
+author: "Komagal B"
 summary: "The blog describes different machine learning problems and its evolution"
 ---
 

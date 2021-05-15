@@ -3,7 +3,7 @@ layout: post
 title:  "Sustainable Energy Transition Through Industry 4.0"
 date:   "2021-05-12"
 category: "industry4"
-author: "Karthik V"
+author: "Komagal B"
 summary: "The blog describe how we can achieve sustainable energy transistion through Industry 4.0"
 ---
 

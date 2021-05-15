@@ -3,7 +3,7 @@ layout: post
 title:  "Machine learning at our School days"
 date:   "2021-05-12"
 category: "ml-dl"
-author: "Karthik V"
+author: "Komagal B"
 summary: "Machine learning is not something new, its been a very old subject in our school days.
 Lets see its use case in the following blog"
 ---

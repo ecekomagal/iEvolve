@@ -3,7 +3,7 @@ layout: post
 title:  "Intro to Machine Learning – A First Step to Artificial Intelligence (AI)"
 date:   "2021-05-15"
 category: "ml-dl"
-author: "Karthik V"
+author: "Komagal B"
 summary: "The blog describes about the recent buzz word Machine Learning, which is the first
 step to artifical intelligence and how this blog will be organized"
 ---
